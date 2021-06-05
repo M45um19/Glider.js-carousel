@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+.bg-custom_nav{
+  background-color: #094f9b;
+} 
+nav{
+  height: 70px;
+}
+.logo{
+  margin-left: 20px;
+}
+/* Slider Start */
+.desc_ban{
+  padding: 50px;
+  margin-left: 60px;
+}
+.ban_img{
+  margin-top: 20px;  
+  height: 90vh;
+}
+.custom_cur{
+  background-color: rgb(232, 232, 241);
+}
+.ban_head{
+  color: #093d74;
+}
+.btn-custom{
+  background-color: #094f9b;
+  color: white;
+}
